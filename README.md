@@ -2,6 +2,7 @@
 
 This is a static clone of the Netflix landing page created using only HTML and CSS.  
 It is a personal project developed to improve my front-end skills and understand modern web layouts.
+link:https://akashnaik7396.github.io/Netflix-Clone/
 
 ## 📌 Features
 
